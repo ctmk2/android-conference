@@ -49,7 +49,7 @@ jobs:
         # REPLACE: Zimperium Client Environment Name
           client_env: ziap
         # REPLACE: Zimperium Client ID
-          client_id: xtGeJrz6SF-LvcVJ6Mi5SQ
+          client_id: HvFHaW9rTiWxqPAr-4L2ug
         # REPLACE: Zimperium Client Secret
           client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
