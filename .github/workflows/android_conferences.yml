@@ -46,7 +46,7 @@ jobs:
         uses: zimperium/zscanmarketplace@master
         timeout-minutes: 60
         with:
-        # REPLACE: Zimperium Client Environment Name 
+        # REPLACE: Zimperium Client Environment Name MR
           client_env: ziap
         # REPLACE: Zimperium Client ID
           client_id: HvFHaW9rTiWxqPAr-4L2ug
