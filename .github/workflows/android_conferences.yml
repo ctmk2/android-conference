@@ -47,9 +47,9 @@ jobs:
         timeout-minutes: 60
         with:
         # REPLACE: Zimperium Client Environment Name MARCOS R.
-          client_env: ziap
+          client_env: zc202
         # REPLACE: Zimperium Client ID
-          client_id: HvFHaW9rTiWxqPAr-4L2ug
+          client_id: Q4vbVH1tR3yPocu3-aHxcg
         # REPLACE: Zimperium Client Secret
           client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
